@@ -30,7 +30,7 @@ Andrew got started with web development by making sites with WordPress, and even
 
 Brian studied art in college and did programming on the side to pay for his education. Eventually, he realized that he enjoys working on open source. Brian has one [one-person band](https://soundcloud.com/brianvaughn/) and two [two-person](https://soundcloud.com/pilotlessdrone) [bands](https://soundcloud.com/pinwurm). He also takes care of the cutest cat in the world.
 
-### Dan Abramov {#dan-abramov}
+### Dan Abramov {#webdevifti}
 
 ![Dan Abramov](../images/team/gaearon.jpg)
 
